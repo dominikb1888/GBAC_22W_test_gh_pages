@@ -11,7 +11,7 @@
 | Content 1 | Content 2 | Content 3 |
 
 
-![alt text](image.jpg)
+![Hacker Kitten](kitten.png)
 
 
 
